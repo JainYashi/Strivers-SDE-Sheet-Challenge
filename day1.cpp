@@ -1,5 +1,4 @@
 //Question1---->  Set matrix zero
-//new
 /*class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
